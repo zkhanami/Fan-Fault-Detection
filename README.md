@@ -1,23 +1,23 @@
 # Fan-Fault-Detection
-Overview
+# Overview
 This project demonstrates how to create a machine learning classifier using the Analytics and Machine Learning Toolkit in LabVIEW. To implement this project, you'll need the following:
 
-Hardware:
+# Hardware:
 
 NI CompactDAQ (cDAQ) with analog input and output modules
 NI Sound and Vibration Simulator
 Accelerometer sensors (X and Y axis)
 BNC cables
 A fan to be connected to the analog output module on cDAQ
-Software:
+#Software:
 
 NI LabVIEW 2018
 NI Analytics and Machine Learning Toolkit
 NI cDAQ drivers
-Getting Started
+#Getting Started
 Follow these steps to get started with fan fault detection:
 
-Hardware Setup:
+#Hardware Setup:
 
 Connect two accelerometer sensors (X and Y axis) to the cDAQ analog input module channels using BNC cables.
 Connect the fan to the analog output module on the cDAQ.
